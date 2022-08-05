@@ -51,3 +51,6 @@ The process takes a bit of time...
 ![image](https://user-images.githubusercontent.com/107162310/182995340-4590a973-4040-4dc4-969e-1352da621c51.png)
 
 But now the pipeline is ready to be used to maintain the continuously updating database.
+
+#### Challenges
+I was repeatedly thrown off course by the warnings seen in the last screenshot. I mistook them for errors and spent far too long repeating the challenge in different ways to get them to go away. 
